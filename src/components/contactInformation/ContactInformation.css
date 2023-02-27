@@ -1,0 +1,21 @@
+.ContactInformation {
+    border-radius: inherit;
+}
+
+.Photo {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    border-radius: inherit;
+}
+
+.Image {
+    border-radius: inherit;
+}
+
+.ImageText {
+    position: absolute;
+    margin: 1vw;
+    font-family: fantasy;
+    color: white;
+}
